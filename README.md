@@ -1,3 +1,6 @@
+file:![WhatsApp Image 2024-03-31 at 6 21 13 PM](https://github.com/migbyte-0/NeoVimFlutterArchScaffold/assets/152094060/6277eb04-92db-40dc-996a-e0401316540f)
+
+
 # NeoVimFlutterArchScaffold
 
 FlutterArchScaffold is a Neovim Lua script designed to streamline the process of setting up a Flutter project's architecture. It supports the automated scaffolding of project features with BLoC and Cubit patterns, helping developers focus more on development and less on repetitive setup tasks.
@@ -13,7 +16,7 @@ FlutterArchScaffold is a Neovim Lua script designed to streamline the process of
 
 1. Ensure you have Neovim installed on your system.
 2. Clone this repository or download the `flutter_arch_scaffold.lua` script directly into your Neovim configuration directory, typically found at `~/.config/nvim/lua/`.
-3. Require the script in your Neovim `init.lua` file:![WhatsApp Image 2024-03-31 at 6 21 13 PM](https://github.com/migbyte-0/NeoVimFlutterArchScaffold/assets/152094060/6277eb04-92db-40dc-996a-e0401316540f)
+3. Require the script in your Neovim `init.lua` 
 
 
 ```lua
